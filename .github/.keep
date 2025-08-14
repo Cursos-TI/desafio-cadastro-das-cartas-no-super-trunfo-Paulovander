@@ -23,7 +23,7 @@ int main(){
     scanf("%d", &populacao);
 
     printf("Area: \n");
-    scanf("%f", &pib);
+    scanf("%f", &area);
 
     printf("Pib: \n");
     scanf("%f", &pib);
