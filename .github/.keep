@@ -29,7 +29,9 @@ int main(){
     scanf("%f", &pib);
 
     printf("Quantidade de Pontos Turisticos: \n");
-    scanf("%d", &pontosturisticos)
+    scanf("%d", &pontosturisticos);
+
+    return 0;
 
 
 
